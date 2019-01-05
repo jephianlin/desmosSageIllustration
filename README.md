@@ -1,4 +1,5 @@
 # 用 desmos 及 Sage 看見數學
+## 林晉宏 (Jephian Lin)
 ##### 國立中山大學應用數學系【 南部高中數學科學研究人才培育計畫 】演講
 
 ![QR code for this page](QR.png "Scan here")
