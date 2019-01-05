@@ -22,4 +22,10 @@ desmos 上的操作都很值觀，可以先玩一玩各個按鈕的功能，很�
 
 Sage 是**開源而且免費**的軟體，可以安裝到自己的電腦上。但安裝需要花費一些時間和精力，所以直接在雲端服務上執行也是一個好辦法。
 
-[CoCalc](https://cocalc.com/) 是一個由 雲端服務。
+[CoCalc](https://cocalc.com/) 是一個提供 Sage 線上計算的雲端服務，在上面也可以執行 Linux terminal、LaTeX、Jupyter (Julia、Python、R、Octave、etc.)。CoCalc 需要註冊帳號，註冊後可以建立自己的 project，在 project 中將本頁的 ipynb 檔上傳後即可執行。
+
+_註冊 CoCalc 帳號是免費的，若付費的話可以有較多的計算資源以及網路存取權限_
+
+用 Sage 看見？？？：
+1. [圖論](here)
+
