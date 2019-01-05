@@ -14,7 +14,7 @@ desmos 上的操作都很值觀，可以先玩一玩各個按鈕的功能，很�
 
 用 desmos 看見函數：
 1. [函數是什麼？](https://www.desmos.com/calculator/ntsq0owons)
-2. [簡諧運動](https://www.desmos.com/calculator/id66axntnx)
+2. [簡諧運動](https://www.desmos.com/calculator/gcalsmeozy)
 3. [直線的斜率](https://www.desmos.com/calculator/spbwhvyoie)
 4. [曲線的斜率](https://www.desmos.com/calculator/ba8zwzbujn)
 5. [微分](https://www.desmos.com/calculator/yd2wrhgfcw)
