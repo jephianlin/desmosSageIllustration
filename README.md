@@ -13,7 +13,7 @@ _註冊帳號及登入只是方便儲存作品_
 desmos 上的操作都很值觀，可以先玩一玩各個按鈕的功能，很容易上手。常用的話也可以參考官方的[快捷鍵列表](https://support.desmos.com/hc/en-us/articles/202528799-Keyboard-Shortcuts)。
 
 用 desmos 看見函數：
-1. [函數是什麼？](https://www.desmos.com/calculator/ntsq0owons)
+1. [函數是什麼？](https://www.desmos.com/calculator/cdm9cux05w)
 2. [簡諧運動](https://www.desmos.com/calculator/gcalsmeozy)
 3. [直線的斜率](https://www.desmos.com/calculator/spbwhvyoie)
 4. [曲線的斜率](https://www.desmos.com/calculator/ba8zwzbujn)
